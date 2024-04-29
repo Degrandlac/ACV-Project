@@ -33,7 +33,7 @@ This repository contains the necessary files for running a computer vision model
 
 To execute the main script, use the following command:
 ```
-python main_script.py
+python Dehaze.py
 ```
 
 This will process the images in the `test_images` folder using the YOLOv5 model and output the results.
