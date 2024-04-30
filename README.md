@@ -1,10 +1,10 @@
 
 # Applied Computer Vision Project
-This is a repository that contains Applied Computer Vision class's Project 
+This is a repository that contains the Applied Computer Vision class's Project 
 
 # Contributers
-- Ahishakiye Eric
-- Ishimwe Benjamin Mukapa
+- Ibyishakiye Eric
+- Ishimwe Benjamin Hubert
 - Harerimana Kevin
 - Kwizera Jean De Dieu
 - Izera Pacific
